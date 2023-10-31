@@ -133,16 +133,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of proteus  :
 
 ## PUSH BUTTON OFF
-![268432454-b4318e3a-d293-4739-8cf3-f0869d7b76bc](https://github.com/BaskaranV15/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118703522/34f4e8f6-2d60-4229-8f5c-b3090c63603f)
 
-![268432490-ee98d14d-7eeb-4586-a938-f85fd1384a18](https://github.com/BaskaranV15/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118703522/841a3216-35c7-43d0-b872-077747e49ced)
+<img src = "https://github.com/BaskaranV15/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118703522/34f4e8f6-2d60-4229-8f5c-b3090c63603f" width = 450 height = 450>
 
-
+<br>
+<img src = "https://github.com/BaskaranV15/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118703522/841a3216-35c7-43d0-b872-077747e49ced" width = 450 height = 450>
+<br>
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
- ![268434742-6bfa6345-2699-410f-b01a-f699d033da04](https://github.com/BaskaranV15/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118703522/dfffc95d-02bc-49ab-b3e0-e238c4c32f40)
 
- 
+<img src = "https://github.com/BaskaranV15/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118703522/dfffc95d-02bc-49ab-b3e0-e238c4c32f40" width = 450 height = 450>
+<br>
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
